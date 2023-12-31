@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Small-grocery-app
 =======
 # Getting Started with Create React App
